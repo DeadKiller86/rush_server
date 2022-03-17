@@ -1118,15 +1118,58 @@ const db = {
       info: "IDA is a non profit grass root level animal protection organisation, dedicated towards establishing and defending the rights of all non-human living creatures.",
     },
     {
-      parent: "Birds and Animal Helpline",
-      org: "SPCA, Thane",
-      website: "https://thanespca.org/",
-      contact: "+91 93 2227 1966",
-      address:
-        "N.K.T Compound, Besides Brahmand Complex, Azadnagar, Kolshet Road ,Thane(West) Maharashtra – 400607",
-      info: "Emergancy Services for Birds and Animals.",
+      parent: "Online Doctor Consultation",
+      org: "care24",
+      website: "https://care24.co.in/",
+      contact: "022-62820555",
+      address: "2nd Floor, Mahajan Mills Compound, LBS Rd, Opp. Mahindra Showroom, HMPL Surya Nagar, Vikhroli West, Mumbai, Maharashtra 400079",
+      info: "We at care24 understand the struggles one faces post-surgery or in chronic pain? That is why we are here to help you and your loved ones facing difficulty in going about their daily routines.",
     },
-  ],
+    {
+      parent: "Online Doctor Consultation",
+      org: "practo",
+      website: "www.practo.com",
+      contact: "",
+      address: "PractPracto Technologies Pvt Ltd. 401, Vedanta Complex Makwana Road, Near Marol Naka Metro Stn, Andheri East, Mumbai, Maharashtra 400059o ",
+      info: "Our guiding principles form the core of what we do and help us honour the trust and confidence reposed in us by our doctors and patients. ",
+    },
+    {
+      parent: "Online Doctor Consultation",
+      org: "fortis",
+      website: "https://www.fortishealthcare.com/",
+      contact: "8376804102",
+      address: "Tower A, Unitech Business Park,  Block - F, South City 1, Sector - 41, Gurgaon, Haryana - 122001",
+      info: "",
+    },
+    {
+      parent: "Ambulance Helpline",
+      org: "bsideU",
+      website: "bsideu.in",
+      contact: "1800220777",
+      address: "Office No. 307, 3rd Floor, Kirol Road, Vidya Vihar (West), Mumbai – 400086",
+      info: "BsideU Ambulance service has started transporting Covid 19 patients, safety precautions like sanitization & fumigation of ambulance done after every trip as well as staff are provided with a protective suit.",
+    },
+    {
+      parent: "Ambulance Helpline",
+      org: "HelpNow",
+      website: "https://www.gethelpnow.in/",
+      contact: "8822288222",
+      address: "",
+      info: "To provide fast and quality medical response for 1.3 billion Indians,free of cost by 2024.",
+    },
+    {
+      parent: "covide guide",
+      org: "INDIA WILL FIGHT TOGETHER ",
+      website: "https://www.covideindiaresources.com/",
+      contact: "011-23978046 OR 1075",
+      address: "all over india",
+      info: "CROWDSOURCED INFORMATION ON HELPLINES AND WEBSITE THAT CAN ASSIST IN FINDING RESOURCES DURNING COVID - ",
+    },
+    
+    
+  ]    
+        
+    
 };
 
 module.exports = db;
