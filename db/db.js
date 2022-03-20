@@ -1165,7 +1165,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: "DE ADDICTION HELPLINE NUMBERS",
+      parent: "De Addiction Helpline",
       org: "ALPHA HEALING CENTRE ",
       website: "https://alphahealingcenter.in/?utm_source=IndianHelpline&utm_medium=influencer&utm_campaign=influencer",
       contact: "1800-547-2060",
@@ -1173,7 +1173,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: "DE ADDICTION HELPLINE NUMBERS",
+      parent: "De Addiction Helpline",
       org: "Cadabams Anunitha ",
       website: " https://www.cadabams.org/centre/anunitha/",
       contact: "96111 94949",
@@ -1181,7 +1181,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: "DE ADDICTION HELPLINE NUMBERS",
+      parent: "De Addiction Helpline",
       org: " VEDA REHABILITATION AND WELLNESS :  ",
       website: "https://vedawellnessworld.com/",
       contact: "(+91) 81518 30000",
@@ -1189,7 +1189,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: "DE ADDICTION HELPLINE NUMBERS",
+      parent: "De Addiction Helpline",
       org: " National Drug Dependence   ",
       website: "",
       contact: "022-25588223, 26588663",
@@ -1197,7 +1197,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: "DE ADDICTION HELPLINE NUMBERS",
+      parent: "De Addiction Helpline",
       org: " Institute of Human Behavior and Allied Sciences, Dilshad   ",
       website: "",
       contact: "022-1100095",
@@ -1205,7 +1205,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: "DE ADDICTION HELPLINE NUMBERS",
+      parent: "De Addiction Helpline",
       org: "  Delhi Govt Dispensary Chattarpur,  ",
       website: "",
       contact: "022-2202166",
@@ -1213,7 +1213,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: "DE ADDICTION HELPLINE NUMBERS",
+      parent: "De Addiction Helpline",
       org: "  MCD Barat Ghar, Opposite Bapu Park, Kotla Mubarakpur, New Delhi  ",
       website: "",
       contact: "022-98418065",
@@ -1221,7 +1221,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: "DE ADDICTION HELPLINE NUMBERS",
+      parent: "De Addiction Helpline",
       org: " Bhartiya Parivardhan Sanstha   ",
       website: "",
       contact: "022-66961656",
@@ -1229,7 +1229,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: "DE ADDICTION HELPLINE NUMBERS",
+      parent: "De Addiction Helpline",
       org: "  Samaj Sewa Sangh  ",
       website: "",
       contact: "110375",
@@ -1238,7 +1238,7 @@ const db = {
     },
     
     {
-      parent: " CHILD HELPLINE",
+      parent: " Child Helpline",
       org: " NATIONAL CHILD HELPLINE -  ",
       website: " https://www.facebook.com/NoMoreMissing1/ ",
       contact: " 1098",
@@ -1246,7 +1246,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: "SENIOR CITIZEN HELPLINE ",
+      parent: "Senior Citizen Helpline",
       org: "Shraddhanand Mahilashram Mumbai ",
       website: " https://shraddhanandmahilashram.org/",
       contact: " 022-24012552",
@@ -1254,7 +1254,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: " SENIOR CITIZEN HELPLINE ",
+      parent: " Senior Citizen Helpline ",
       org: "  Priyadarshini Seva Mandal  ",
       website: " https://www.facebook.com/NoMoreMissing1/ ",
       contact: " 1098",
@@ -1262,7 +1262,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: " SENIOR CITIZEN HELPLINE",
+      parent: " Senior Citizen Helpline",
       org: " Omashram Trust Bengaluru  ",
       website: "  ",
       contact: "8296884004 ",
@@ -1270,7 +1270,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: " SENIOR CITIZEN HELPLINE",
+      parent: " Senior Citizen Helpline",
       org: " Old Age Home by Delhi Government  ",
       website: "  ",
       contact: " 022-26218940",
@@ -1278,7 +1278,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: " SENIOR CITIZEN HELPLINE",
+      parent: " Senior Citizen Helpline",
       org: " HelpAge India  ",
       website: " https://www.helpageindia.org/  ",
       contact: " 180-180-1256",
@@ -1286,7 +1286,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: " SENIOR CITIZEN HELPLINE",
+      parent: " Senior Citizen Helpline",
       org: " Akshaya Trust  Chennai  ",
       website: " https://www.akshayachennai.org/ ",
       contact: "  91-44-22761658,",
@@ -1294,7 +1294,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: "SENIOR CITIZEN HELPLINE ",
+      parent: "Senior Citizen Helpline ",
       org: " Abhinav Samaj  Delhi  ",
       website: "https://www.abhinavsamaj.org/ ",
       contact: "91-11 -25371724 ",
