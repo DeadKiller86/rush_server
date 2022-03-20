@@ -1254,7 +1254,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: " Senior Citizen Helpline ",
+      parent: "Senior Citizen Helpline ",
       org: "  Priyadarshini Seva Mandal  ",
       website: " https://www.facebook.com/NoMoreMissing1/ ",
       contact: " 1098",
@@ -1262,7 +1262,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: " Senior Citizen Helpline",
+      parent: "Senior Citizen Helpline",
       org: " Omashram Trust Bengaluru  ",
       website: "  ",
       contact: "8296884004 ",
@@ -1270,7 +1270,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: " Senior Citizen Helpline",
+      parent: "Senior Citizen Helpline",
       org: " Old Age Home by Delhi Government  ",
       website: "  ",
       contact: " 022-26218940",
@@ -1278,7 +1278,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: " Senior Citizen Helpline",
+      parent: "Senior Citizen Helpline",
       org: " HelpAge India  ",
       website: " https://www.helpageindia.org/  ",
       contact: " 180-180-1256",
@@ -1286,7 +1286,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: " Senior Citizen Helpline",
+      parent: "Senior Citizen Helpline",
       org: " Akshaya Trust  Chennai  ",
       website: " https://www.akshayachennai.org/ ",
       contact: "  91-44-22761658,",
@@ -1302,7 +1302,7 @@ const db = {
       info: "  ",
     },
     {
-      parent: "online doctor consultation",
+      parent: "Online doctor consultation",
       org: "care24",
       website: "https://care24.co.in/",
       contact: "022-62820555",
@@ -1310,7 +1310,7 @@ const db = {
       info: "We at care24 understand the struggles one faces post-surgery or in chronic pain? That is why we are here to help you and your loved ones facing difficulty in going about their daily routines.",
     },
     {
-      parent: "online doctor consultation",
+      parent: "Online doctor consultation",
       org: "practo",
       website: "www.practo.com",
       contact: "022-5465451",
@@ -1342,7 +1342,7 @@ const db = {
       info: "To provide fast and quality medical response for 1.3 billion Indians,free of cost by 2024.",
     },
     {
-      parent: "covide guide",
+      parent: "Plasma Helpline",
       org: "INDIA WILL FIGHT TOGETHER ",
       website: "https://www.covideindiaresources.com/",
       contact: "022-23978046 OR 1075",
