@@ -1238,7 +1238,7 @@ const db = {
     },
     
     {
-      parent: " Child Helpline",
+      parent: "Child Helpline",
       org: " NATIONAL CHILD HELPLINE -  ",
       website: " https://www.facebook.com/NoMoreMissing1/ ",
       contact: " 1098",
